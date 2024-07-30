@@ -1,0 +1,41 @@
+<theme>
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+		<text name="info1" extra="true">
+			<text>Comic Books</text>
+		</text>
+
+		<text name="info1" extra="true"  lang="PT">
+			<text>Comic Books</text>
+		</text>
+
+				<text name="info1" extra="true" lang="EN">
+			<text>Comic Books</text>
+		</text>
+
+				<text name="info1" extra="true" lang="ES">
+			<text>Comic Books</text>
+		</text>
+
+				<text name="info1" extra="true" lang="FR">
+			<text>Comic Books</text>
+		</text>
+
+		<text name="info1" extra="true" lang="DE">
+			<text>Comic Books</text>
+		</text>
+
+		<text name="info2" extra="true">
+			<text>Comic Books</text>
+		</text>
+
+		<text name="info3" extra="true">
+			<text>Various</text>
+		</text>
+
+		<text name="info4" extra="true">
+			<text>Various</text>
+		</text>
+	</view>
+</theme>

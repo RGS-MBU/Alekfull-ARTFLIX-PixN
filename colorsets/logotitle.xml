@@ -1,0 +1,29 @@
+<theme>
+<formatVersion>4</formatVersion>
+
+
+<view name="system">
+	<image name="sublogo" extra="true">
+		<path>./../assets/logos/$system.png</path>
+		<path>./../assets/logos/$system2.png</path>
+		<pos>0.02 0.2</pos>
+		<pos ifSubset="systemview:Cobalto">0.065 0.36</pos>
+		<maxSize>0.34 0.16</maxSize>
+		<maxSize ifSubset="systemview:Cobalto">0.34 0.15</maxSize>
+		<linearSmooth>true</linearSmooth>
+		<zIndex>42</zIndex>
+	</image>
+	
+	<text name="info2" extra="true">
+		<zIndex>0</zIndex>
+		<size>0 0</size>
+		<pos>2 2</pos>
+      </text>
+
+	<image name="sublogo" extra="true" ifSubset="syscarousel:Without Vertical Carousel">
+		<zIndex>0</zIndex>
+		<size>0 0</size>
+		<pos>2 2</pos>
+	</image>	
+   </view>
+</theme>

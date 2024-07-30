@@ -1,0 +1,57 @@
+<theme>
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+		<text name="info1" extra="true">
+			<text>The Interton Video Computer 4000 (officially abbreviated as Interton VC 4000) is an early 8-bit ROM cartridge-based second-generation home video game console.</text>
+		</text>
+
+		<text name="info1" extra="true"  lang="PT">
+			<text>O Interton Video Computer 4000 (oficialmente abreviado como Interton VC 4000) é um console de videogame doméstico de segunda geração baseado em cartucho ROM de 8 bits.</text>
+		</text>
+		
+				<text name="info1" extra="true" lang="EN">
+			<text>La Interton Video Computer 4000 (oficialmente abreviada como Interton VC 4000) es una de las primeras consolas de videojuegos domésticas de segunda generación basada en cartuchos ROM de 8 bits.</text>
+		</text>
+		
+				<text name="info1" extra="true" lang="ES">
+			<text>La Interton Video Computer 4000 (oficialmente abreviada como Interton VC 4000) es una de las primeras consolas de videojuegos domésticas de segunda generación basada en cartuchos ROM de 8 bits.</text>
+		</text>
+		
+				<text name="info1" extra="true" lang="FR">
+			<text>L’Interton Video Computer 4000 (officiellement abrégé en Interton VC 4000) est une console de jeux vidéo de deuxième génération basée sur une cartouche ROM 8 bits.</text>
+		</text>
+		
+				<text name="info1" extra="true" lang="DE">
+			<text>Der Interton Video Computer 4000 (offiziell als Interton VC 4000 abgekürzt) ist eine frühe 8-Bit-ROM-basierte Heimvideospielkonsole der zweiten Generation.</text>
+		</text>
+				
+		<text name="info2" extra="true">
+			<text>VC4000</text>
+		</text>
+		
+		<text name="info3" extra="true">
+			<text>1978</text>
+		</text>
+		
+		<text name="info4" extra="true">
+			<text>Interton</text>
+		</text>			
+	</view>
+	
+		<customView name="HCoinSpin">
+      <image name="art3" extra="true">
+         <path>./../assets/coinops/default.png</path>
+         <zIndex>7</zIndex>
+      </image>
+	</customView>
+
+
+	<customView name="CoinOps Details">
+      <image name="art3" extra="true">
+         <path>./../assets/coinops/default.png</path>
+         <zIndex>7</zIndex>
+      </image>
+	</customView>
+	
+</theme>

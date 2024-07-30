@@ -1,0 +1,41 @@
+<theme>
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+		<text name="info1" extra="true">
+			<text>Skylanders is a toys-to-life action-adventure video game franchise published by Activision. Skylanders games are played by placing a character's figure on the "Portal of Power", a device that reads its tag using NFC and "imports" them into the game as a playable character.</text>
+		</text>
+
+		<text name="info1" extra="true" lang="PT">
+			<text>Skylanders é uma franquia de videogame de ação e aventura, publicada pela Activision. Os jogos Skylanders são jogados colocando a figura de um personagem no “Portal of Power”, um dispositivo que lê sua etiqueta usando NFC e os “importa” para o jogo como um personagem jogável.</text>
+		</text>
+
+				<text name="info1" extra="true" lang="EN">
+			<text>Skylanders is a toys-to-life action-adventure video game franchise published by Activision. Skylanders games are played by placing a character's figure on the "Portal of Power", a device that reads its tag using NFC and "imports" them into the game as a playable character.</text>
+		</text>
+
+				<text name="info1" extra="true" lang="ES">
+			<text>Skylanders es una franquicia de videojuegos de acción y aventuras con juguetes que cobran vida publicada por Activision. Los juegos de Skylanders se juegan colocando la figura de un personaje en el "Portal of Power", un dispositivo que lee su etiqueta usando NFC y los "importa" al juego como un personaje jugable.</text>
+		</text>
+
+				<text name="info1" extra="true" lang="FR">
+			<text>Skylanders est une franchise de jeux vidéo d'action-aventure qui prend vie et qui prend vie, publiée par Activision. Les jeux Skylanders se jouent en plaçant la figurine d'un personnage sur le « Portail du pouvoir », un appareil qui lit son étiquette à l'aide de NFC et les « importe » dans le jeu en tant que personnage jouable.</text>
+		</text>
+
+		<text name="info1" extra="true" lang="DE">
+			<text>Skylanders ist ein von Activision veröffentlichtes Toys-to-Life-Action-Adventure-Videospiel-Franchise. Skylanders-Spiele werden gespielt, indem die Figur eines Charakters auf dem „Portal der Macht“ platziert wird, einem Gerät, das seinen Tag mithilfe von NFC liest und ihn als spielbaren Charakter in das Spiel „importiert“.</text>
+		</text>
+		
+		<text name="info2" extra="true">
+			<text>Skylanders</text>
+		</text>
+
+		<text name="info3" extra="true">
+			<text>2011</text>
+		</text>
+
+		<text name="info4" extra="true">
+			<text>Activision</text>
+		</text>
+	</view>
+</theme>

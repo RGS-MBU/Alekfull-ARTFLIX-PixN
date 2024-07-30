@@ -1,0 +1,57 @@
+<theme>
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+				<text name="info1" extra="true" lang="EN">
+			<text>The Force Engine is a project with the goal to reverse engineer and rebuild the Jedi Engine for modern systems and the games that used that engine - Dark Forces and Outlaws.</text>
+		</text>
+
+		<text name="info1" extra="true"  lang="PT">
+			<text>O Force Engine é um projeto com o objetivo de fazer engenharia reversa e reconstruir o Jedi Engine para sistemas modernos e os jogos que utilizavam esse motor - Dark Forces e Outlaws.</text>
+		</text>
+		
+				<text name="info1" extra="true" lang="EN">
+			<text>The Force Engine is a project with the goal to reverse engineer and rebuild the Jedi Engine for modern systems and the games that used that engine - Dark Forces and Outlaws.</text>
+		</text>
+		
+				<text name="info1" extra="true" lang="ES">
+			<text>Force Engine es un proyecto con el objetivo de realizar ingeniería inversa y reconstruir el Jedi Engine para sistemas modernos y los juegos que usaban ese motor: Dark Forces y Outlaws.</text>
+		</text>
+		
+				<text name="info1" extra="true" lang="FR">
+			<text>Le Force Engine est un projet dont le but est de procéder à l'ingénierie inverse et de reconstruire le moteur Jedi pour les systèmes modernes et les jeux qui utilisaient ce moteur - Dark Forces et Outlaws.</text>
+		</text>
+
+				<text name="info1" extra="true" lang="DE">
+			<text>Die Force Engine ist ein Projekt mit dem Ziel, die Jedi-Engine für moderne Systeme und die Spiele, die diese Engine verwendeten – Dark Forces und Outlaws – zurückzuentwickeln und neu zu erstellen.</text>
+		</text>
+		
+		<text name="info2" extra="true">
+			<text>The Force Engine</text>
+		</text>
+		
+		<text name="info3" extra="true">
+			<text>2022</text>
+		</text>
+		
+		<text name="info4" extra="true">
+			<text>Multiple</text>
+		</text>			
+	</view>
+	
+		<customView name="HCoinSpin">
+      <image name="art3" extra="true">
+         <path>./../assets/coinops/default.png</path>
+         <zIndex>7</zIndex>
+      </image>
+	</customView>
+
+
+	<customView name="CoinOps Details">
+      <image name="art3" extra="true">
+         <path>./../assets/coinops/default.png</path>
+         <zIndex>7</zIndex>
+      </image>
+	</customView>
+	
+</theme>

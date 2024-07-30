@@ -1,0 +1,56 @@
+<theme>
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+		<text name="info1" extra="true">
+			<text>Game engine to play Doom 3 and Resurrection of Evil.</text>
+		</text>
+
+		<text name="info1" extra="true" lang="PT">
+			<text>Motor de jogo para jogar Doom 3 e Resurrection of Evil.</text>
+		</text>
+
+				<text name="info1" extra="true" lang="EN">
+			<text>Game engine to play Doom 3 and Resurrection of Evil.</text>
+		</text>
+
+				<text name="info1" extra="true" lang="ES">
+			<text>Motor de juego para jugar Doom 3 y Resurrection of Evil.</text>
+		</text>
+
+				<text name="info1" extra="true" lang="FR">
+			<text>Moteur de jeu pour jouer à Doom 3 et Resurrection of Evil.</text>
+		</text>
+
+		<text name="info1" extra="true" lang="DE">
+			<text>Spiel-Engine zum Spielen von Doom 3 und Resurrection of Evil.</text>
+		</text>
+				<text name="info2" extra="true">
+			<text>Boom3</text>
+		</text>
+
+				<text name="info3" extra="true">
+			<text>20XX</text>
+		</text>
+
+		<text name="info4" extra="true">
+			<text>Various</text>
+		</text>
+	</view>
+
+	<customView name="HCoinSpin">
+      <image name="art3" extra="true">
+         <path>./../assets/coinops/ports.png</path>
+         <zIndex>7</zIndex>
+      </image>
+	</customView>
+
+
+	<customView name="CoinOps Details">
+      <image name="art3" extra="true">
+         <path>./../assets/coinops/ports.png</path>
+         <zIndex>7</zIndex>
+      </image>
+	</customView>
+
+</theme>

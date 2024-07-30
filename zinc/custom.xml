@@ -1,0 +1,41 @@
+<theme>
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+		<text name="info1" extra="true">
+			<text>ZiNc is a closed-source emulator for three arcade hardware systems based on Sony's PlayStation hardware. Its last release was in January 2005.</text>
+		</text>
+
+		<text name="info1" extra="true" lang="PT">
+			<text>ZiNc é um emulador de código fechado para três sistemas de hardware de arcade baseados no hardware PlayStation da Sony. Seu último lançamento foi em janeiro de 2005.</text>
+		</text>
+
+				<text name="info1" extra="true" lang="EN">
+			<text>ZiNc is a closed-source emulator for three arcade hardware systems based on Sony's PlayStation hardware. Its last release was in January 2005.</text>
+		</text>
+
+				<text name="info1" extra="true" lang="ES">
+			<text>ZiNc es un emulador de código cerrado para tres sistemas de hardware arcade basados en el hardware PlayStation de Sony. Su último lanzamiento fue en enero de 2005.</text>
+		</text>
+
+				<text name="info1" extra="true" lang="FR">
+			<text>ZiNc est un émulateur fermé pour trois systèmes matériels d'arcade basés sur le matériel PlayStation de Sony. Sa dernière sortie remonte à janvier 2005.</text>
+		</text>
+
+		<text name="info1" extra="true" lang="DE">
+			<text>ZiNc ist ein Closed-Source-Emulator für drei Arcade-Hardwaresysteme, die auf der PlayStation-Hardware von Sony basieren. Die letzte Veröffentlichung erfolgte im Januar 2005.</text>
+		</text>
+
+		<text name="info2" extra="true">
+			<text>ZiNc</text>
+		</text>
+
+				<text name="info3" extra="true">
+			<text>2005</text>
+		</text>
+
+		<text name="info4" extra="true">
+			<text>ZiNc</text>
+		</text>
+	</view>
+</theme>

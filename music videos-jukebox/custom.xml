@@ -1,0 +1,41 @@
+<theme>
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+		<text name="info1" extra="true">
+			<text>Music Videos Jukebox.</text>
+		</text>
+
+		<text name="info1" extra="true"  lang="PT">
+			<text>Music Videos Jukebox.</text>
+		</text>
+
+				<text name="info1" extra="true" lang="EN">
+			<text>Music Videos Jukebox.</text>
+		</text>
+
+				<text name="info1" extra="true" lang="ES">
+			<text>Music Videos Jukebox.</text>
+		</text>
+
+				<text name="info1" extra="true" lang="FR">
+			<text>Music Videos Jukebox.</text>
+		</text>
+
+		<text name="info1" extra="true" lang="DE">
+			<text>Music Videos Jukebox./text>
+		</text>
+
+		<text name="info2" extra="true">
+			<text>Music Videos Jukebox</text>
+		</text>
+
+		<text name="info3" extra="true">
+			<text>Various</text>
+		</text>
+
+		<text name="info4" extra="true">
+			<text>Various</text>
+		</text>
+	</view>
+</theme>

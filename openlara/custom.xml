@@ -1,0 +1,58 @@
+<theme>
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+		<text name="info1" extra="true">
+			<text>Game engine to play Tomb Raider.</text>
+		</text>
+
+		<text name="info1" extra="true" lang="PT">
+			<text>Motor de jogo para jogar Tomb Raider.</text>
+		</text>
+
+		<text name="info1" extra="true" lang="EN">
+			<text>Game engine to play Tomb Raider.</text>
+		</text>
+
+				<text name="info1" extra="true" lang="ES">
+			<text>Motor de juego para jugar Tomb Raider.</text>
+		</text>
+
+				<text name="info1" extra="true" lang="FR">
+			<text>Moteur de jeu pour jouer à Tomb Raider.</text>
+		</text>
+
+		<text name="info1" extra="true" lang="DE">
+			<text>Spiel-Engine zum Spielen von Tomb Raider.</text>
+		</text>
+		
+		<text name="info2" extra="true">
+			<text>OpenLara</text>
+		</text>
+		
+		<text name="info3" extra="true">
+			<text>2023</text>
+		</text>
+
+		<text name="info4" extra="true">
+			<text>Various</text>
+		</text>
+	
+	</view>
+
+		<customView name="HCoinSpin">
+      <image name="art3" extra="true">
+         <path>./../assets/coinops/default.png</path>
+         <zIndex>7</zIndex>
+      </image>
+	</customView>
+
+
+	<customView name="CoinOps Details">
+      <image name="art3" extra="true">
+         <path>./../assets/coinops/default.png</path>
+         <zIndex>7</zIndex>
+      </image>
+	</customView>
+
+</theme>

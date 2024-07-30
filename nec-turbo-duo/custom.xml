@@ -1,0 +1,100 @@
+<theme>
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+		<text name="info1" extra="true">
+			<text>The NEC Turbo Duo.</text>
+		</text>
+
+		<text name="info1" extra="true" lang="PT">
+			<text>The NEC Turbo Duo.</text>
+		</text>
+
+				<text name="info1" extra="true" lang="EN">
+			<text>The NEC Turbo Duo.</text>
+		</text>
+
+				<text name="info1" extra="true" lang="ES">
+			<text>The NEC Turbo Duo.</text>
+		</text>
+
+				<text name="info1" extra="true" lang="FR">
+			<text>The NEC Turbo Duo.</text>
+		</text>
+
+		<text name="info1" extra="true" lang="DE">
+			<text>The NEC Turbo Duo.</text>
+		</text>
+
+				<text name="info2" extra="true">
+			<text>NEC Turbo Duo</text>
+		</text>
+					<text name="info2" extra="true" lang="PT">
+			<text>NEC Turbo Duo</text>
+		</text>
+
+				<text name="info2" extra="true" lang="EN">
+			<text>NEC Turbo Duo</text>
+		</text>
+						<text name="info2" extra="true" lang="ES">
+			<text>NEC Turbo Duo</text>
+		</text>
+						<text name="info2" extra="true" lang="FR">
+			<text>NEC Turbo Duo</text>
+		</text>
+
+		<text name="info2" extra="true" lang="DE">
+			<text>NEC Turbo Duo</text>
+		</text>
+
+				<text name="info3" extra="true">
+			<text>1994</text>
+		</text>
+
+		<text name="info4" extra="true">
+			<text>NEC Home Electronics</text>
+		</text>
+
+	<image name="logo" lang="EN">
+		<path>./../assets/logos/nec-turbo-duo.png</path>
+	</image>
+
+		<image name="logo" lang="ES">
+		<path>./../assets/logos/nec-turbo-duo.png</path>
+	</image>
+
+		<image name="logo" lang="DE">
+			<path>./../assets/logos/nec-turbo-duo.png</path>
+		</image>
+
+				<image name="sublogo" lang="EN">
+		<path>./assets/logos/nec-turbo-duo.png</path>
+	</image>
+
+				<image name="sublogo" lang="ES">
+		<path>./assets/logos/nec-turbo-duo.png</path>
+	</image>
+
+		<image name="sublogo" lang="DE">
+			<path>./assets/logos/nec-turbo-duo.png</path>
+		</image>
+
+
+	</view>
+
+		<customView name="HCoinSpin">
+      <image name="art3" extra="true">
+         <path>./../assets/coinops/nec-turbo-duo.png</path>
+         <zIndex>7</zIndex>
+      </image>
+	</customView>
+
+
+	<customView name="CoinOps Details">
+      <image name="art3" extra="true">
+         <path>./../assets/coinops/nec-turbo-duo.png</path>
+         <zIndex>7</zIndex>
+      </image>
+	</customView>
+
+</theme>

@@ -1,0 +1,52 @@
+<theme>
+    <formatVersion>4</formatVersion>
+
+    <view name="system">
+        <text name="info1" extra="true">
+            <text>3D Pinball for Windows: Space Cadet (referred to as 3D Pinball or simply Pinball) is the version of the game bundled with various Microsoft products. It was originally packaged with Microsoft Plus! 95 and later included in Windows NT, Windows Me, Windows 2000 and Windows XP.</text>
+        </text>
+        <text name="info1" extra="true" lang="PT">
+            <text>3D Pinball para Windows: Space Cadet (chamado de 3D Pinball ou simplesmente Pinball) é a versão do jogo empacotada com vários produtos da Microsoft. Ele foi originalmente empacotado com o Microsoft Plus! 95 e posteriormente incluído no Windows NT, Windows Me, Windows 2000 e Windows XP.</text>
+        </text>
+        <text name="info1" extra="true" lang="EN">
+            <text>3D Pinball for Windows: Space Cadet (referred to as 3D Pinball or simply Pinball) is the version of the game bundled with various Microsoft products. It was originally packaged with Microsoft Plus! 95 and later included in Windows NT, Windows Me, Windows 2000 and Windows XP.</text>
+        </text>
+        <text name="info1" extra="true" lang="ES">
+            <text>3D Pinball para Windows: Space Cadet (conocido como 3D Pinball o simplemente Pinball) es la versión del juego que se incluye con varios productos de Microsoft. Originalmente se incluía con Microsoft Plus! 95 y luego se incluyó en Windows NT, Windows Me, Windows 2000 y Windows XP..</text>
+        </text>
+        <text name="info1" extra="true" lang="FR">
+            <text>3D Pinball pour Windows : Space Cadet (appelé 3D Pinball ou simplement Pinball) est la version du jeu fournie avec divers produits Microsoft. Il était à l'origine fourni avec Microsoft Plus! 95 et plus tard inclus dans Windows NT, Windows Me, Windows 2000 et Windows XP.</text>
+        </text>
+        <text name="info1" extra="true" lang="DE">
+            <text>3D Pinball für Windows: Space Cadet (auch als 3D Pinball oder einfach Pinball bezeichnet) ist die Version des Spiels, die mit verschiedenen Microsoft-Produkten gebündelt ist. Es wurde ursprünglich mit Microsoft Plus! 95 gebündelt und später in Windows NT, Windows Me, Windows 2000 und Windows XP aufgenommen..</text>
+        </text>
+
+        <text name="info2" extra="true">
+            <text>3D Pinball</text>
+        </text>
+
+        <text name="info3" extra="true">
+            <text>1996</text>
+        </text>
+
+        <text name="info4" extra="true">
+            <text>Microsoft</text>
+        </text>
+    </view>
+	
+		<customView name="HCoinSpin">
+      <image name="art3" extra="true">
+         <path>./../assets/coinops/fpinball.png</path>
+         <zIndex>7</zIndex>
+      </image>
+	</customView>
+
+
+	<customView name="CoinOps Details">
+      <image name="art3" extra="true">
+         <path>./../assets/coinops/fpinball.png</path>
+         <zIndex>7</zIndex>
+      </image>
+	</customView>
+
+</theme>
